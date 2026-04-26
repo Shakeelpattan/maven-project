@@ -93,13 +93,13 @@
         <repository>
             <id>nexus</id>
             <name>Releases Nexus Repository</name>
-            <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+            <url>http://52.91.49.88:9091/repository/my_web_release/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>Snapshot Nexus Repository</name>
-            <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+            <url>http://52.91.49.88:9091/repository/my_web_application/</url>
         </snapshotRepository>
 
     </distributionManagement>
