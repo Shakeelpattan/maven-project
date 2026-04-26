@@ -106,7 +106,7 @@
 
     <!-- BUILD -->
     <build>
-        <finalName>maven-web-application</finalName>
+        <finalName>my_web_application</finalName>
 
         <plugins>
 
